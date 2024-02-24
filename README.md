@@ -5,7 +5,7 @@ Proyecto realizado en javaScript.
 
 Este proyecto es un aprendizaje del curso en udemy dictado por el profesor Juan de la Torre (https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/).
 
-Es un proyecto enfocado el Responsive Design por lo que uso media queries y Normalize. En la codificacion pongo en practica los prototype, modulos, funciones y clases.
+Es un proyecto enfocado el Responsive Design por lo que uso media queries, Normalize.  modulos, funciones y clases.
 
 ## Autor
 Onofre Davila
